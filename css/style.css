@@ -1,0 +1,12 @@
+@import "themes/main.css";
+@import "layout.css";
+@import "navbar.css";
+@import "post-list.css";
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font-family);
+}

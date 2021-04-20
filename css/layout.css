@@ -1,0 +1,14 @@
+.site-layout-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+}
+
+.site-layout {
+    width: 85%;
+    background-color: var(--color-light);
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: 24px auto;
+}
